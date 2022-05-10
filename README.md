@@ -10,4 +10,11 @@ Also Adina from our class was very helpful in helping me to figure out how to co
 
 
 ##dependencies
+Axios, cors, express, sqlite3, react, react-router-dom, http-proxy-middleware and body-parser
+
+These dependencies seem to need to be installed in both the root folder and the client folder 
+
+It is also possible that not all of these are needed as I did add modules to try and fix various problems.
+
+---
 
