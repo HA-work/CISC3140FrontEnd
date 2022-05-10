@@ -37,4 +37,10 @@ To get to the front end
 
 There you can try out the functionality of the website
 
---
+---
+
+The first page is just a home page that does nothing
+
+you should use the nav bar to navigate to another page
+
+# 
