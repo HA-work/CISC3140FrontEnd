@@ -10,6 +10,14 @@ Also Adina from our class was very helpful in helping me to figure out how to co
 
 There are still some bugs and room for improvement but the basic functionality works
 
+The sourcecode is available here in the repo.
+
+The .gitignore file will ignore the node modules
+
+Also there is a file here called Storyboard.md
+
+It contains the storyboard design choices of the website
+
 ---
 
 
