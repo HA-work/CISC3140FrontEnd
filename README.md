@@ -60,3 +60,7 @@ The update page lets the user enter in a car id as well as the score and rank th
 This page lets you see the whole database and search for certain cars
 
 to see only one car enter that car's specific ID
+
+---
+
+The website was created by using multiple react web pages and by using a component to make the nav bar and the various actions with the backend.
