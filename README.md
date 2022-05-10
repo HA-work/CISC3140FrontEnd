@@ -8,6 +8,8 @@ It made it so we can make the client and server run at the same time.
 
 Also Adina from our class was very helpful in helping me to figure out how to connect to the backend.
 
+There are still some bugs and room for improvement but the basic functionality works
+
 ---
 
 
@@ -43,4 +45,18 @@ The first page is just a home page that does nothing
 
 you should use the nav bar to navigate to another page
 
-# 
+# Register
+
+the register page lets you enter in info about a car 
+
+I only allowed the user to enter what I considered to be relevant
+
+# Update
+
+The update page lets the user enter in a car id as well as the score and rank that the car should have
+
+# Search
+
+This page lets you see the whole database and search for certain cars
+
+to see only one car enter that car's specific ID
