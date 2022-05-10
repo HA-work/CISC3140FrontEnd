@@ -49,6 +49,8 @@ There you can try out the functionality of the website
 
 ---
 
+# Home
+
 The first page is just a home page that does nothing
 
 you should use the nav bar to navigate to another page
