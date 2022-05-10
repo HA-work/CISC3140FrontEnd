@@ -11,8 +11,8 @@ Also Adina from our class was very helpful in helping me to figure out how to co
 ---
 
 
-##dependencies
-Axios, cors, express, sqlite3, react, react-router-dom, http-proxy-middleware and body-parser
+## dependencies
+Axios, cors, express, sqlite3, react, react0dom, react-router-dom, http-proxy-middleware and body-parser
 
 These dependencies seem to need to be installed in both the root folder and the client folder 
 
@@ -20,3 +20,11 @@ It is also possible that not all of these are needed as I did add modules to try
 
 ---
 
+# running the code
+
+After cloning the repo and installing the dependencies to run the front end you need to type
+` yarn dev `
+
+in the root directory
+
+Then the backend and frontend will start to run
