@@ -28,3 +28,13 @@ After cloning the repo and installing the dependencies to run the front end you 
 in the root directory
 
 Then the backend and frontend will start to run
+
+A tab should open up automatically to the website but if it does not you can use
+
+` http://localhost:3000  ` 
+
+To get to the front end
+
+There you can try out the functionality of the website
+
+--
