@@ -22,7 +22,7 @@ It contains the storyboard design choices of the website
 
 
 ## dependencies
-Axios, cors, express, sqlite3, react, react0dom, react-router-dom, http-proxy-middleware and body-parser
+Axios, yarn, cors, express, sqlite3, react, react0dom, react-router-dom, http-proxy-middleware and body-parser
 
 These dependencies seem to need to be installed in both the root folder and the client folder 
 
